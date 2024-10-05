@@ -23,3 +23,6 @@ The project follows the Page Object Model (POM) design pattern:
 
 ### Test Classes:
 - `RegisterTest`: Contains the test case for user registration.
+
+## Screen Recording Link
+https://screenrec.com/share/69T2RzbLiQ
